@@ -17,7 +17,7 @@ Third Part:
 Padel descriptor software is used to prepare the machine learning input data which calcualte the molecular fingerprints based on the smiles string.
 
 Fourt Part:
-Regression Models with Random Forest is used to predict the IC50 values. IC50 value is used to calculate the Potency of drugs. Higher the IC value, lower potential and vice versa.
+Regression Models with Random Forest is used to predict the IC50 values. IC50 value is used to calculate the Potency of drugs. Higher the IC value, lower potential and vice versa. Different models are tested using the lazypredict.
 
 
 Fifth part:
